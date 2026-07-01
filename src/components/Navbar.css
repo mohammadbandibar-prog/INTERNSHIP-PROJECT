@@ -1,0 +1,6 @@
+/* Navbar.css */
+.topbar { padding: 13px 20px; background: #fff; border-bottom: 1px solid #e0e4ea; display: flex; align-items: center; justify-content: space-between; }
+.page-title { font-size: 16px; font-weight: 700; color: #1a1a2e; }
+.topbar-right { display: flex; align-items: center; gap: 10px; }
+.icon-btn { width: 34px; height: 34px; border: 1px solid #e0e4ea; border-radius: 8px; background: none; cursor: pointer; font-size: 15px; transition: background .15s; }
+.icon-btn:hover { background: #f3f4f6; }

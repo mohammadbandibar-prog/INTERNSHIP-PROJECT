@@ -1,0 +1,4 @@
+/* Dashboard.css */
+.dashboard-page { }
+.stats-grid { display: grid; grid-template-columns: repeat(4,1fr); gap: 12px; margin-bottom: 18px; }
+.dash-grid  { display: grid; grid-template-columns: 1.4fr 1fr; gap: 14px; }
